@@ -38,8 +38,6 @@ A Python tool to parse Windows SmartScreen Event Logs (`.evtx`) and extract exec
    pip install python-evtx
    ```
 
-3. Ensure the `.evtx` file you want to parse is available in the working directory or provide the full path to the file.
-
 ---
 
 ## Usage
