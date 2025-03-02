@@ -51,6 +51,6 @@ The script accepts two arguments:
 ### Example
 To parse a SmartScreen log file and save the results to a CSV file:
    ```bash
-   python3 smartscreen_parser.py <evtx_file> <output>.csv
+   python3 smartscreen_parser.py <path_to_evtx_file> <output>.csv
    ```
 
