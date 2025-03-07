@@ -12,7 +12,6 @@ A Python tool to parse Windows SmartScreen Event Logs (`.evtx`) and extract exec
   - **User ID**
   - **Record Time**
   - **File Path**
-  - **Execution Time**
 - Filters events related to file executions (e.g., `isFileSupported`).
 - Outputs results in a structured CSV file.
 
